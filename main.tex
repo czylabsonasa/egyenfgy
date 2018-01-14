@@ -1,0 +1,387 @@
+%usepackage es egyebek
+\input{globdef.tex}
+
+%zarojel, FA...
+\input{locdef.tex}
+
+
+%\makeindex
+\begin{document}
+\begin{spacing}{1.3}
+
+
+% cím
+\author{Czylabson Asa}
+\title{Egyenlőtlenséges feladatok}
+\maketitle
+
+\pagestyle{plain}
+
+\begin{center}{\bf\today}\end{center}
+\clearpage
+\newpage
+
+\begin{section}{Jelölések}
+% jelölések
+   \begin{itemize}
+		\item 'Kira': \nameref{Kira}
+      \item 'Fa': \nameref{Fa}
+      \item 'Um': \nameref{Um}
+      \item 'Mo': \nameref{Mo}
+      \newline
+      \item Alap {\ \ \ Alapvető, klasszikus dolgokat megfogalmazó feladatok}
+      \item Fol {\ \ \ Folklór (nem tudom,ismeretlen,lemma  stb.)}
+      \item Haj {\ \ \ Hajós verseny}
+      \item Oktv {\ \ \ Országos Középiskolai Tanulmányi Verseny}
+      \item Komal {\ \ \ Kömal pontverseny}
+      \item Imo {\ \ \ Nemzetközi Mat. Olimpia}
+      \item Egmo {\ \ \ European Girls' Math Olympiad}
+      \item Krs  {\ \ \ Kürschák verseny }
+      \item Schev {\ \ \ Schultz János: Elemi matematikai versenyfeladatok, könyv, IV fejezet, Egyenlőtlenségek}
+   \end{itemize}
+\end{section}
+\newpage
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hspace{2cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{section}{Kirakat}
+	\label{Kira}
+	\Kira{AlapAMGM}
+	\Kira{AlapAMQM}
+	\Kira{AlapBin}
+	\Kira{AlapBer}
+	\Kira{AlapCBS}
+	\Kira{AlapGMHM}
+	\Kira{AlapPowMean}
+	\Kira{AlapRearr}
+	\Kira{AlapSchur}
+	\Kira{AlapWgtAMGM}
+%
+	\Kira{FolGoRa1} %golden-ratio-val kapcsolatos
+	\Kira{FolSchurEx1} %Schur alkalmazás
+	\Kira{FoleDef1} %e-definíciója
+	\Kira{FolCik1} %ciklikusság
+	\Kira{FolMdt1} %mediáns (mediant)
+	%\Kira{FolEng1} %engel-titu
+	%%\Kira{FolNesb1} %nesbitt
+	%\Kira{FolKrs19612}
+	%\Kira{FolRearrMulti}
+	%\Kira{FolRearrCorr}
+	%\Kira{FolProd1}
+	%\Kira{FolPowMean} % seged az AlapPowMean-hoz
+	\Kira{FolLem1}
+%%
+	\Kira{Schev1}
+	\Kira{Schev31}
+	\Kira{Schev13}
+	\Kira{Schev27}
+	\Kira{Oktv2007IIIkI2}
+	\Kira{Oktv1974II1}
+	\Kira{Oktv1973I5}
+\end{section}
+
+
+
+\begin{section}{Feladatok}
+   \label{Fa}
+   \begin{subsection}{Alap}
+      \Fa{AlapAMGM} %számtani-mértani
+      \Fa{AlapAMQM} %számtani-kvadratikus
+      \Fa{AlapBin} %binomiális
+      \Fa{AlapSchur} %schur
+      \Fa{AlapBer} %bernoulli
+      \Fa{AlapCBS} %cauchy
+      \Fa{AlapGMHM} %mértani-harmonikus
+      \Fa{AlapRearr}
+      \Fa{AlapWgtAMGM} %súlyozott AMGM
+		\Fa{AlapPowMean} %hatványközép egyenlőtlenség
+    \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Folklór}
+      \Fa{FolGoRa1} %golden-ratio-val kapcsolatos
+      \Fa{FolSchurEx1} %
+      \Fa{FoleDef1} %e-definíciója
+      \Fa{FolCik1} %ciklikusság
+      \Fa{FolMdt1} %mediáns (mediant)
+      \Fa{FolEng1} %engel-titu
+      %\Fa{FolNesb1} %nesbitt
+      \Fa{FolKrs19612}
+      \Fa{FolRearrMulti}
+      \Fa{FolRearrCorr}
+      \Fa{FolProd1}
+		\Fa{FolPowMean} % seged az AlapPowMean-hoz
+		\Fa{FolLem1}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Arany Dániel}
+      \Fa{ArDa1975IIh2}
+      \Fa{ArDa1974IIhm2}
+   \end{subsection}
+   \hspace{0.5cm}
+
+
+   \begin{subsection}{Oktv}
+      \Fa{Oktv1967Ia1}
+      \Fa{Oktv1968Im1}
+      \Fa{Oktv1970I1}
+      \Fa{Oktv1973I5}
+      \Fa{Oktv1974II1}
+      \Fa{Oktv2007IIIkI2}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Kömal}
+      \hspace{0.5cm}
+      \Fa{KomalB4736}
+      \Fa{KomalB4753}
+      \Fa{KomalF2465}
+      \Fa{KomalF2501}
+      \Fa{KomalGy2254}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Hajós}
+      \Fa{Hajos20043}
+      \Fa{Hajos20103}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Imo}
+      \Fa{Imo19952}
+      \Fa{Imo19642}
+   \end{subsection}
+   \hspace{0.5cm}
+
+
+   \begin{subsection}{Egmo}
+      \Fa{Egmo2016dI1}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Krs}
+      \Fa{Krs19612}
+   \end{subsection}
+   \hspace{0.5cm}
+
+
+   \begin{subsection}{Schev}
+      \Fa{Schev1}
+      \Fa{Schev31}
+      \Fa{Schev13}
+		\Fa{Schev27}
+
+   \end{subsection}
+   \hspace{0.5cm}
+
+
+
+
+
+\newpage
+\end{section}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hspace{2cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{section}{Útmutatók}
+   \label{Um}
+   \begin{subsection}{Alap}
+      \Um{AlapAMGM}
+      \Um{AlapAMQM}
+      \Um{AlapBin}
+      \Um{AlapSchur}
+      \Um{AlapBer}
+      \Um{AlapCBS}
+      \Um{AlapGMHM} %mértani-harmonikus
+      \Um{AlapRearr}
+   \end{subsection}
+   \hspace{0.5cm}
+
+
+   \begin{subsection}{Folklór}
+      \Um{FolGoRa1}
+      \Um{FolSchurEx1}
+      \Um{FoleDef1}
+      \Um{FolCik1}
+      \Um{FolMdt1}
+      \Um{FolEng1}
+      \Um{FolKrs19612}
+      \Um{FolRearrMulti}
+      \Um{FolRearrCorr}
+      \Um{FolProd1}
+      \Um{FolPowMean}
+		\Um{FolLem1}
+
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Arany Dániel}
+      \Um{ArDa1975IIh2}
+      \Um{ArDa1974IIhm2}
+   \end{subsection}
+   \hspace{0.5cm}
+
+
+   \begin{subsection}{Oktv}
+      \hspace{0.5cm}
+      \Um{Oktv1967Ia1}
+      \Um{Oktv1968Im1}
+      \Um{Oktv1970I1}
+      \Um{Oktv1973I5}
+      \Um{Oktv1974II1}
+      \Um{Oktv2007IIIkI2}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Kömal}
+      \Um{KomalB4736}
+      \Um{KomalB4753}
+      \Um{KomalF2465}
+      \Um{KomalF2501}
+      \Um{KomalGy2254}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Hajós}
+      \Um{Hajos20043}
+      \Um{Hajos20103}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Imo}
+      \Um{Imo19952}
+      \Um{Imo19642}
+   \end{subsection}
+
+   \begin{subsection}{Egmo}
+      \Um{Egmo2016dI1}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Krs}
+      \Um{Krs19612}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Schev}
+      \Um{Schev1}
+      \Um{Schev31}
+      \Um{Schev13}
+   \end{subsection}
+   \hspace{0.5cm}
+
+
+
+
+\newpage
+\end{section}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hspace{2cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{section}{Megoldások}
+   \label{Mo}
+   \begin{subsection}{Alap}
+      \Mo{AlapAMGM}
+      \Mo{AlapAMQM}
+      \Mo{AlapBin}
+      \Mo{AlapSchur}
+      \Mo{AlapBer}
+      \Mo{AlapCBS}
+      \Mo{AlapGMHM} %mértani-harmonikus
+      \Mo{AlapRearr}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Folklór}
+      \Mo{FolGoRa1}
+      \Mo{FolSchurEx1}
+      \Mo{FoleDef1}
+      \Mo{FolCik1}
+      \Mo{FolMdt1}
+      \Mo{FolEng1}
+      \Mo{FolKrs19612}
+      \Mo{FolRearrMulti}
+      \Mo{FolRearrCorr}
+      \Mo{FolProd1}
+      \Mo{FolPowMean}
+		\Mo{FolLem1}
+   
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Arany Dániel}
+      \Mo{ArDa1975IIh2}
+      \Mo{ArDa1974IIhm2}
+   \end{subsection}
+   \hspace{0.5cm}
+
+
+   \begin{subsection}{Oktv}
+      \Mo{Oktv1967Ia1}
+      \Mo{Oktv1968Im1}
+      \Mo{Oktv1970I1}
+      \Mo{Oktv1973I5}
+      \Mo{Oktv1974II1}
+      \Mo{Oktv2007IIIkI2}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Kömal}
+      \Mo{KomalB4736}
+      \Mo{KomalB4753}
+      \Mo{KomalF2465}
+      \Mo{KomalF2501}
+      \Mo{KomalGy2254}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Hajós}
+      \Mo{Hajos20043}
+      \Mo{Hajos20103}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Imo}
+      \Mo{Imo19952}
+      \Mo{Imo19642}
+   \end{subsection}
+
+   \begin{subsection}{Egmo}
+      \Mo{Egmo2016dI1}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Krs}
+      \Mo{Krs19612}
+   \end{subsection}
+   \hspace{0.5cm}
+
+   \begin{subsection}{Schev}
+      \Mo{Schev1}
+      \Mo{Schev31}
+      \Mo{Schev13}
+   \end{subsection}
+	\hspace{0.5cm}
+
+
+	\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{section}
+\hspace{2cm}
+
+
+
+
+
+
+
+\end{spacing}
+\end{document}

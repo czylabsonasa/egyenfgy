@@ -1,0 +1,91 @@
+\DeclarePairedDelimiter\ceil{\lceil}{\rceil}
+\DeclarePairedDelimiter\floor{\lfloor}{\rfloor}
+
+
+\newcommand{\Fa}[1]{%
+\begin{subsubsection}{#1}%
+   \label{#1Fa}
+   \hspace{0.5cm}
+   \par
+   \input{DB/#1Fa.tex}
+   \hspace{0.5cm}
+   \newline
+   \par{(Um:\ref{#1Um})(Mo:\ref{#1Mo})}
+   \newline
+   \centerline{$\triangle\bigtriangledown\triangle$}
+   \newline
+\end{subsubsection}%
+}%
+
+\newcommand{\Um}[1]{%
+\begin{subsubsection}{#1}%
+   \label{#1Um}
+   \hspace{0.5cm}
+   \par
+   \input{DB/#1Um.tex}
+   \hspace{0.5cm}
+   \newline
+   \par{(Fa:\ref{#1Fa})(Mo:\ref{#1Mo})}
+   \newline
+   \centerline{$\triangle\bigtriangledown\triangle$}
+   \newline
+\end{subsubsection}%
+}%
+
+\newcommand{\Mo}[1]{%
+\begin{subsubsection}{#1}%
+   \label{#1Mo}
+   \hspace{0.5cm}
+   \par
+   \input{DB/#1Mo.tex}
+   \hspace{0.5cm}
+   \newline
+   \par{(Fa:\ref{#1Fa})(Um:\ref{#1Um})}
+   \newline
+   \centerline{$\triangle\bigtriangledown\triangle$}
+   \newline
+\end{subsubsection}%
+}%
+
+
+\newcommand{\Kira}[1]{%
+\begin{subsection}{\nameref{#1Fa}}%
+   \label{#1Kira}
+   %\hspace{0.1cm}
+   %\par
+   \input{DB/#1Kira.tex}
+   %\hspace{0.3cm}
+   \par\centerline{$-------------------------------------$}
+\end{subsection}%
+}%
+
+
+%---------------------------------------------------------------------
+\newcommand{\Gzjel}[1]{%
+{ \left( #1 \right) }
+}
+\newcommand{\Toligv}[2]{%
+#1,\hdots ,#2
+}
+
+
+\newcommand{\GZJ}[1]{%
+{ \left( #1 \right) }
+}
+
+\newcommand{\KZJ}[1]{%
+{ \{ #1 \} }
+}
+
+\newcommand{\SZZJ}[1]{%
+{ \left[ #1 \right] }
+}
+
+
+\newcommand{\Tolig}[2]{%
+#1\hdots #2
+}
+
+\newcommand{\SZOR}[2]{%
+#1\cdot\hdots\cdot #2
+}

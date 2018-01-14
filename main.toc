@@ -1,0 +1,162 @@
+\select@language {hungarian} \contentsline {section}{\tocsection {}{1}{Jel\IeC {\"o}l\IeC {\'e}sek}}{9}{section.0.1}
+\select@language {hungarian} \contentsline {section}{\tocsection {}{2}{Feladatok}}{10}{section.0.2}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{2.1}{Alap}}{10}{subsection.0.2.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.1.1}{AlapAMGM}}{10}{subsubsection.0.2.1.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.1.2}{AlapAMQM}}{10}{subsubsection.0.2.1.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.1.3}{AlapBin}}{10}{subsubsection.0.2.1.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.1.4}{AlapSchur}}{11}{subsubsection.0.2.1.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.1.5}{AlapBer}}{11}{subsubsection.0.2.1.5}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.1.6}{AlapCBS}}{11}{subsubsection.0.2.1.6}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.1.7}{AlapGMHM}}{11}{subsubsection.0.2.1.7}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.1.8}{AlapRearr}}{12}{subsubsection.0.2.1.8}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.1.9}{AlapWgtAMGM}}{12}{subsubsection.0.2.1.9}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.1.10}{AlapPowMean}}{12}{subsubsection.0.2.1.10}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{2.2}{Folkl\IeC {\'o}r}}{12}{subsection.0.2.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.2.1}{FolGoRa1}}{12}{subsubsection.0.2.2.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.2.2}{FolSchurEx1}}{13}{subsubsection.0.2.2.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.2.3}{FoleDef1}}{13}{subsubsection.0.2.2.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.2.4}{FolCik1}}{13}{subsubsection.0.2.2.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.2.5}{FolMdt1}}{14}{subsubsection.0.2.2.5}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.2.6}{FolEng1}}{14}{subsubsection.0.2.2.6}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.2.7}{FolKrs19612}}{14}{subsubsection.0.2.2.7}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.2.8}{FolRearrMulti}}{14}{subsubsection.0.2.2.8}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.2.9}{FolRearrCorr}}{15}{subsubsection.0.2.2.9}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.2.10}{FolProd1}}{15}{subsubsection.0.2.2.10}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.2.11}{FolPowMean}}{15}{subsubsection.0.2.2.11}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{2.3}{Arany D\IeC {\'a}niel}}{16}{subsection.0.2.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.3.1}{ArDa1975IIh2}}{16}{subsubsection.0.2.3.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.3.2}{ArDa1974IIhm2}}{16}{subsubsection.0.2.3.2}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{2.4}{Oktv}}{16}{subsection.0.2.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.4.1}{Oktv1967Ia1}}{16}{subsubsection.0.2.4.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.4.2}{Oktv1968Im1}}{16}{subsubsection.0.2.4.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.4.3}{Oktv1970I1}}{17}{subsubsection.0.2.4.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.4.4}{Oktv1973I5}}{17}{subsubsection.0.2.4.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.4.5}{Oktv1974II1}}{17}{subsubsection.0.2.4.5}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.4.6}{Oktv2007IIIkI2}}{17}{subsubsection.0.2.4.6}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{2.5}{K\IeC {\"o}mal}}{18}{subsection.0.2.5}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.5.1}{KomalB4736}}{18}{subsubsection.0.2.5.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.5.2}{KomalB4753}}{18}{subsubsection.0.2.5.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.5.3}{KomalF2465}}{18}{subsubsection.0.2.5.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.5.4}{KomalF2501}}{19}{subsubsection.0.2.5.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.5.5}{KomalGy2254}}{19}{subsubsection.0.2.5.5}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{2.6}{Haj\IeC {\'o}s}}{19}{subsection.0.2.6}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.6.1}{Hajos20043}}{19}{subsubsection.0.2.6.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.6.2}{Hajos20103}}{19}{subsubsection.0.2.6.2}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{2.7}{Imo}}{20}{subsection.0.2.7}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.7.1}{Imo19952}}{20}{subsubsection.0.2.7.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.7.2}{Imo19642}}{20}{subsubsection.0.2.7.2}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{2.8}{Egmo}}{20}{subsection.0.2.8}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.8.1}{Egmo2016dI1}}{20}{subsubsection.0.2.8.1}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{2.9}{Krs}}{20}{subsection.0.2.9}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.9.1}{Krs19612}}{21}{subsubsection.0.2.9.1}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{2.10}{Schev}}{21}{subsection.0.2.10}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.10.1}{Schev1}}{21}{subsubsection.0.2.10.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.10.2}{Schev31}}{21}{subsubsection.0.2.10.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{2.10.3}{Schev13}}{21}{subsubsection.0.2.10.3}
+\select@language {hungarian} \contentsline {section}{\tocsection {}{3}{\IeC {\'U}tmutat\IeC {\'o}k}}{23}{section.0.3}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{3.1}{Alap}}{23}{subsection.0.3.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.1.1}{AlapAMGM}}{23}{subsubsection.0.3.1.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.1.2}{AlapAMQM}}{23}{subsubsection.0.3.1.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.1.3}{AlapBin}}{23}{subsubsection.0.3.1.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.1.4}{AlapSchur}}{23}{subsubsection.0.3.1.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.1.5}{AlapBer}}{23}{subsubsection.0.3.1.5}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.1.6}{AlapCBS}}{23}{subsubsection.0.3.1.6}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.1.7}{AlapGMHM}}{24}{subsubsection.0.3.1.7}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.1.8}{AlapRearr}}{24}{subsubsection.0.3.1.8}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{3.2}{Folkl\IeC {\'o}r}}{24}{subsection.0.3.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.2.1}{FolGoRa1}}{24}{subsubsection.0.3.2.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.2.2}{FolSchurEx1}}{24}{subsubsection.0.3.2.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.2.3}{FoleDef1}}{24}{subsubsection.0.3.2.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.2.4}{FolCik1}}{25}{subsubsection.0.3.2.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.2.5}{FolMdt1}}{25}{subsubsection.0.3.2.5}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.2.6}{FolEng1}}{25}{subsubsection.0.3.2.6}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.2.7}{FolKrs19612}}{25}{subsubsection.0.3.2.7}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.2.8}{FolRearrMulti}}{25}{subsubsection.0.3.2.8}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.2.9}{FolRearrCorr}}{25}{subsubsection.0.3.2.9}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.2.10}{FolProd1}}{26}{subsubsection.0.3.2.10}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.2.11}{FolPowMean}}{26}{subsubsection.0.3.2.11}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{3.3}{Arany D\IeC {\'a}niel}}{26}{subsection.0.3.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.3.1}{ArDa1975IIh2}}{26}{subsubsection.0.3.3.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.3.2}{ArDa1974IIhm2}}{26}{subsubsection.0.3.3.2}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{3.4}{Oktv}}{26}{subsection.0.3.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.4.1}{Oktv1967Ia1}}{26}{subsubsection.0.3.4.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.4.2}{Oktv1968Im1}}{27}{subsubsection.0.3.4.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.4.3}{Oktv1970I1}}{27}{subsubsection.0.3.4.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.4.4}{Oktv1973I5}}{27}{subsubsection.0.3.4.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.4.5}{Oktv1974II1}}{27}{subsubsection.0.3.4.5}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.4.6}{Oktv2007IIIkI2}}{27}{subsubsection.0.3.4.6}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{3.5}{K\IeC {\"o}mal}}{27}{subsection.0.3.5}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.5.1}{KomalB4736}}{27}{subsubsection.0.3.5.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.5.2}{KomalB4753}}{28}{subsubsection.0.3.5.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.5.3}{KomalF2465}}{28}{subsubsection.0.3.5.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.5.4}{KomalF2501}}{28}{subsubsection.0.3.5.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.5.5}{KomalGy2254}}{28}{subsubsection.0.3.5.5}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{3.6}{Haj\IeC {\'o}s}}{28}{subsection.0.3.6}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.6.1}{Hajos20043}}{28}{subsubsection.0.3.6.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.6.2}{Hajos20103}}{29}{subsubsection.0.3.6.2}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{3.7}{Imo}}{29}{subsection.0.3.7}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.7.1}{Imo19952}}{29}{subsubsection.0.3.7.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.7.2}{Imo19642}}{29}{subsubsection.0.3.7.2}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{3.8}{Egmo}}{29}{subsection.0.3.8}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.8.1}{Egmo2016dI1}}{29}{subsubsection.0.3.8.1}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{3.9}{Krs}}{29}{subsection.0.3.9}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.9.1}{Krs19612}}{29}{subsubsection.0.3.9.1}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{3.10}{Schev}}{30}{subsection.0.3.10}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.10.1}{Schev1}}{30}{subsubsection.0.3.10.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.10.2}{Schev31}}{30}{subsubsection.0.3.10.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{3.10.3}{Schev13}}{30}{subsubsection.0.3.10.3}
+\select@language {hungarian} \contentsline {section}{\tocsection {}{4}{Megold\IeC {\'a}sok}}{31}{section.0.4}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{4.1}{Alap}}{31}{subsection.0.4.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.1.1}{AlapAMGM}}{31}{subsubsection.0.4.1.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.1.2}{AlapAMQM}}{32}{subsubsection.0.4.1.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.1.3}{AlapBin}}{32}{subsubsection.0.4.1.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.1.4}{AlapSchur}}{33}{subsubsection.0.4.1.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.1.5}{AlapBer}}{33}{subsubsection.0.4.1.5}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.1.6}{AlapCBS}}{33}{subsubsection.0.4.1.6}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.1.7}{AlapGMHM}}{34}{subsubsection.0.4.1.7}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.1.8}{AlapRearr}}{34}{subsubsection.0.4.1.8}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{4.2}{Folkl\IeC {\'o}r}}{35}{subsection.0.4.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.2.1}{FolGoRa1}}{35}{subsubsection.0.4.2.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.2.2}{FolSchurEx1}}{35}{subsubsection.0.4.2.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.2.3}{FoleDef1}}{36}{subsubsection.0.4.2.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.2.4}{FolCik1}}{36}{subsubsection.0.4.2.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.2.5}{FolMdt1}}{37}{subsubsection.0.4.2.5}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.2.6}{FolEng1}}{37}{subsubsection.0.4.2.6}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.2.7}{FolKrs19612}}{37}{subsubsection.0.4.2.7}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.2.8}{FolRearrMulti}}{37}{subsubsection.0.4.2.8}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.2.9}{FolRearrCorr}}{38}{subsubsection.0.4.2.9}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.2.10}{FolProd1}}{38}{subsubsection.0.4.2.10}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.2.11}{FolPowMean}}{38}{subsubsection.0.4.2.11}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{4.3}{Arany D\IeC {\'a}niel}}{39}{subsection.0.4.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.3.1}{ArDa1975IIh2}}{39}{subsubsection.0.4.3.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.3.2}{ArDa1974IIhm2}}{39}{subsubsection.0.4.3.2}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{4.4}{Oktv}}{40}{subsection.0.4.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.4.1}{Oktv1967Ia1}}{40}{subsubsection.0.4.4.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.4.2}{Oktv1968Im1}}{40}{subsubsection.0.4.4.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.4.3}{Oktv1970I1}}{40}{subsubsection.0.4.4.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.4.4}{Oktv1973I5}}{41}{subsubsection.0.4.4.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.4.5}{Oktv1974II1}}{41}{subsubsection.0.4.4.5}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.4.6}{Oktv2007IIIkI2}}{41}{subsubsection.0.4.4.6}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{4.5}{K\IeC {\"o}mal}}{42}{subsection.0.4.5}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.5.1}{KomalB4736}}{42}{subsubsection.0.4.5.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.5.2}{KomalB4753}}{43}{subsubsection.0.4.5.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.5.3}{KomalF2465}}{43}{subsubsection.0.4.5.3}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.5.4}{KomalF2501}}{43}{subsubsection.0.4.5.4}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.5.5}{KomalGy2254}}{44}{subsubsection.0.4.5.5}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{4.6}{Haj\IeC {\'o}s}}{44}{subsection.0.4.6}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.6.1}{Hajos20043}}{44}{subsubsection.0.4.6.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.6.2}{Hajos20103}}{45}{subsubsection.0.4.6.2}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{4.7}{Imo}}{45}{subsection.0.4.7}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.7.1}{Imo19952}}{45}{subsubsection.0.4.7.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.7.2}{Imo19642}}{46}{subsubsection.0.4.7.2}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{4.8}{Egmo}}{46}{subsection.0.4.8}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.8.1}{Egmo2016dI1}}{46}{subsubsection.0.4.8.1}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{4.9}{Krs}}{47}{subsection.0.4.9}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.9.1}{Krs19612}}{47}{subsubsection.0.4.9.1}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{4.10}{Schev}}{47}{subsection.0.4.10}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.10.1}{Schev1}}{47}{subsubsection.0.4.10.1}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.10.2}{Schev31}}{48}{subsubsection.0.4.10.2}
+\select@language {hungarian} \contentsline {subsubsection}{\tocsubsubsection {}{4.10.3}{Schev13}}{48}{subsubsection.0.4.10.3}
+\select@language {hungarian} \contentsline {section}{\tocsection {}{5}{Kirakat}}{49}{section.0.5}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{5.1}{Schev31}}{49}{subsection.0.5.1}
+\select@language {hungarian} \contentsline {subsection}{\tocsubsection {}{5.2}{Oktv2007IIIkI2}}{49}{subsection.0.5.2}

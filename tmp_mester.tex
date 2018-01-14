@@ -1,0 +1,180 @@
+%\documentclass[10pt,twoside,titlepage,reqno]{amsbook}
+\documentclass[12pt]{amsbook}
+
+
+
+\setcounter{tocdepth}{3}
+
+
+
+\makeatletter
+\def\l@subsubsection{\@tocline{2}{5pt}{6pc}{8pc}{}}
+\makeatother
+
+\makeatletter
+\def\l@subsection{\@tocline{2}{2pt}{2.5pc}{5pc}{}}
+\makeatother
+
+
+
+\usepackage[margin=2.5cm,nohead]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[hungarian]{babel}
+\usepackage[%hypertex,
+                 unicode=true,
+                 plainpages = false, 
+                 pdfpagelabels, 
+                 bookmarks=true,
+                 bookmarksnumbered=true,
+                 bookmarksopen=true,
+                 breaklinks=true,
+                 backref=false,
+                 colorlinks=true,
+                 linkcolor = blue,
+                 urlcolor  = blue,
+                 citecolor = red,
+                 anchorcolor = green,
+                 hyperindex = true,
+                 hyperfigures
+]{hyperref}
+\hypersetup{
+ pdftitle={Feladatok},
+ pdfauthor={Czylabson Asa},
+ pdfsubject={Hold Föld Nap}
+}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{type1cm}
+
+\usepackage{setspace}
+
+
+
+\newcommand{\Fa}[1]{%
+\begin{subsubsection}{#1}%
+   \label{#1Fa}
+   \hspace{0.5cm}
+   \par
+   \input{DB/#1Fa.tex}
+   \hspace{0.5cm}
+   \newline
+   \par{(Um:\ref{#1Um})(Mo:\ref{#1Mo})}
+   \newline
+   \centerline{$\triangle\bigtriangledown\triangle$}
+   \newline
+\end{subsubsection}%
+}%
+
+\newcommand{\Um}[1]{%
+\begin{subsubsection}{#1}%
+   \label{#1Um}
+   \hspace{0.5cm}
+   \par
+   \input{DB/#1Um.tex}
+   \hspace{0.5cm}
+   \newline
+   \par{(Fa:\ref{#1Fa})(Mo:\ref{#1Mo})}
+   \newline
+   \centerline{$\triangle\bigtriangledown\triangle$}
+   \newline
+\end{subsubsection}%
+}%
+
+\newcommand{\Mo}[1]{%
+\begin{subsubsection}{#1}%
+   \label{#1Mo}
+   \hspace{0.5cm}
+   \par
+   \input{DB/#1Mo.tex}
+   \hspace{0.5cm}
+   \newline
+   \par{(Fa:\ref{#1Fa})(Um:\ref{#1Um})}
+   \newline
+   \centerline{$\triangle\bigtriangledown\triangle$}
+   \newline
+\end{subsubsection}%
+}%
+
+
+%---------------------------------------------------------------------
+\newcommand{\Gzjel}[1]{%
+{ \left( #1 \right) }
+}
+\newcommand{\Toligv}[2]{%
+#1,\hdots ,#2
+}
+
+\newcommand{\Tolig}[2]{%
+#1\hdots #2
+}
+
+
+
+%\makeindex
+\begin{document}
+\begin{spacing}{1.3}
+
+
+
+% cím
+\author{Czylabson Asa}
+\title{Egyenlőtlenséges feladatok}
+\maketitle
+
+
+\pagestyle{plain}
+%nem nagyon akarja a cimhez rakini a datumaot
+\begin{center}{\bf\today}\end{center}
+\tableofcontents
+\clearpage
+%\mainmatter
+%\frontmatter
+\newpage
+
+%ez kell a jelölésekhez
+%\item Schev {\ \ \ Schultz János: Elemi matematikai versenyfeladatok, könyv, IV fejezet, Egyenlőtlenségek}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hspace{2cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{section}{Feladatok}
+   \label{Fa}
+   \Fa{Schev1}
+	\Fa{FolProd1}
+   \hspace{0.5cm}
+\newpage
+\end{section}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hspace{2cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{section}{Útmutatók}
+   \label{Um}
+   \Um{Schev1}
+	\Um{FolProd1}
+\newpage
+\end{section}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hspace{2cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{section}{Megoldások}
+   \label{Mo}
+   \Mo{Schev1}
+	\Mo{FolProd1}
+   \newpage
+\end{section}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hspace{2cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\end{spacing}
+\end{document}
